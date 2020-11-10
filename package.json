@@ -1,6 +1,6 @@
 {
 	"name": "active-win",
-	"version": "6.1.0",
+	"version": "6.2.0",
 	"description": "Get metadata about the active window (title, id, bounds, owner, URL, etc). Works on macOS, Linux, Windows.",
 	"license": "MIT",
 	"repository": "sindresorhus/active-win",
@@ -60,7 +60,7 @@
 	},
 	"optionalDependencies": {
 		"ffi-napi": "^2.4.5",
-		"ref-napi": "^1.4.2",
+		"ref-napi": "^3.0.0",
 		"ref-wchar-napi": "^1.0.2",
 		"ref-struct-napi": "^1.1.0"
 	}
